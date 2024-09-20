@@ -110,15 +110,7 @@ print(f"Intercept: {model.intercept_}")
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
 
 ## OUTPUT:
 A - LINEAR TREND ESTIMATION
