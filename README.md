@@ -109,9 +109,7 @@ print(f"Intercept: {model.intercept_}")
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
+
 
 
 ## OUTPUT:
@@ -119,7 +117,9 @@ A - LINEAR TREND ESTIMATION
 
 ![Screenshot 2024-09-20 084116](https://github.com/user-attachments/assets/99081810-ba81-4a3a-989f-40fe13ea5627)
 
-
+<br>
+<br>
+<br>
 B- POLYNOMIAL TREND ESTIMATION
 ![Screenshot 2024-09-20 084130](https://github.com/user-attachments/assets/2afb99ec-0037-4bea-a3cf-a00a37ab53fe)
 
